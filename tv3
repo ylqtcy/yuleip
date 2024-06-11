@@ -1,23 +1,31 @@
-#profile-title: base64:8J+GkyBCYXJyeS1mYXIgfCBXYXJwIPCfjJA=
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-Configs
-#profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-
-warp://auto#WarpInWarp ⭐️&&detour=warp://auto#Warp 🇮🇷
-warp://162.159.193.152:8742?ifp=5-10#WiW-🟢&&detour=warp://188.114.97.155:8742?ifp=5-10#WARP-🟢
-warp://188.114.97.155:8742?ifp=5-10#WiW-🔵&&detour=warp://162.159.193.152:8742?ifp=5-10#WARP-🔵
-#warp://auto?ifp=10-20&ifps=40-100&ifpd=10-20#Warp_10-20_40-100_10-20
-#warp://auto?ifp=10-20&ifps=40-100&ifpd=30-200#Warp_10-20_40-100_30-50
-#warp://auto?ifp=10-20&ifps=40-100&ifpd=300-500#Warp_10-20_40-100_300-500
-#warp://auto?ifp=5-10&ifps=40-100&ifpd=10-20#Warp_5-10_40-100_10-20
-#warp://auto?ifp=5-10&ifps=40-100&ifpd=30-50#Warp_5-10_40-100_30-50
-#warp://auto?ifp=5-10&ifps=40-100&ifpd=300-500#Warp_5-10_40-100_300-500
-warp://auto?ifp=10-20&ifps=20-60&ifpd=5-10#to the rain&&detour=warp://auto?ifp=10-20&ifps=20-60&ifpd=5-10#i set fire
-#warp://auto?ifp=10-20&ifps=40-100&ifpd=10-20#Warp_10-20_40-100_10-20
-#warp://auto?ifp=10-20&ifps=40-100&ifpd=30-200#Warp_10-20_40-100_30-50
-#warp://auto?ifp=10-20&ifps=40-100&ifpd=300-500#Warp_10-20_40-100_300-500
-#warp://auto?ifp=5-10&ifps=40-100&ifpd=10-20#Warp_5-10_40-100_10-20
-#warp://auto?ifp=5-10&ifps=40-100&ifpd=30-50#Warp_5-10_40-100_30-50
-#warp://auto?ifp=5-10&ifps=40-100&ifpd=300-500#Warp_5-10_40-100_300-500
-warp://auto#WarpInWarp✅&&detour=warp://auto#Warp 🇮🇷 IP
+trojan://NISHIKUITAN222@8.219.110.81:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#%E4%B8%AD%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://NISHIKUITAN222@8.219.248.47:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#%E4%B8%AD%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://NISHIKUITAN222@8.222.181.117:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#%E4%B8%AD%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://NISHIKUITAN222@47.236.170.225:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#%E7%BE%8E%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://f91f38bb-72d5-4f3e-8311-1788986293f5@185.146.173.29:443?security=tls&sni=iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpnc.iran-mehr14.ir&type=grpc&authority=&serviceName=2pxF1YL0obWgOVYsTfLJX3ihXJUp&mode=gun#%E7%91%9E%E5%85%B8%2BV2CROSS.COM
+trojan://NISHIKUITAN222@47.236.180.51:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#%E7%BE%8E%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.218.98.75:2053?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com&path=%2F%3Fed%3D2560#%E4%B8%AD%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://NISHIKUITAN222@8.222.183.242:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#%E4%B8%AD%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://NISHIKUITAN222@8.222.169.222:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#%E4%B8%AD%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NEZDNFx1N0Y1N1x1NjVBRiBWMkNST1NTLkNPTSIsDQogICJhZGQiOiAiY2EtZnVsbC5wcml2YXRlaXAubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjMxNGMyOTRmLTMxYjAtNDcxNC1hNThiLWViNjEzZWQ0OTU0MiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL1JBQ0VWUE4iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+trojan://77bbd84d-6d9b-4ede-b319-3bbbd4f2c1ab@es-full.privateip.net:443?security=tls&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%2BAkamai%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8CDN%E7%BD%91%E7%BB%9C%E8%8A%82%E7%82%B9
+trojan://ypDt8RkT7J@151.115.83.239:43118?security=tls&sni=egajz.phooeyunfold.com&alpn=http%2F1.1&fp=random&type=tcp&headerType=none#%E6%B3%95%E5%9B%BD%2BV2CROSS.COM
+trojan://telegram-id-privatevpns@3.121.93.33:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&headerType=none#%E5%BE%B7%E5%9B%BD%2B%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FAMazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1ODM3N1x1NTE3MCBWMkNST1NTLkNPTSIsDQogICJhZGQiOiAiNDYuMjQ5LjU4LjUiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICJkMThjN2YyZC1mNjk2LTQ5NjEtYTEyYy0xMTFmYjU4MDg2NTQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIjQ2LjI0OS41OC41IiwNCiAgInBhdGgiOiAiL2dvb2dsZSIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+trojan://NISHIKUITAN222@8.219.117.198:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#%E4%B8%AD%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NTMxN1x1NEVBQ1x1NUUwMiBcdTc5RkJcdTUyQTgiLA0KICAiYWRkIjogImFsbTIudGhlLWdhbGdvLnRvcCIsDQogICJwb3J0IjogIjMyMDEyIiwNCiAgImlkIjogIjNhOTg4MzY3LTVkYWEtNGJlYi1iZTYyLWFhYmEzZTc5NTM0YSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.243.243.14:2083?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com&path=%2F#%E9%A6%99%E6%B8%AF%2B%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://NISHIKUITAN222@61.247.83.116:39308?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#%E9%9F%A9%E5%9B%BD%2BV2CROSS.COM
+trojan://TeleGram-VPNCTVIP@164.38.155.61:443?security=tls&sni=trojan-ws.vpnctvip.dns-dynamic.NeT&alpn=h3%2Ch2%2Chttp%2F1.1&fp=random&type=ws&host=trojan-ws.vpnctvip.dns-dynamic.NeT&path=%2FproxyIP%3Dproxyip.us.fxxk.dedyn.io#%E8%8B%B1%E5%9B%BD%2BV2CROSS.COM
+trojan://moist@146.56.44.226:55555?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs&path=%2F#%E6%97%A5%E6%9C%AC%2BV2CROSS.COM
+trojan://telegram-id-directvpn@3.13.92.159:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%2BAmazon%2BEC2%E6%9C%8D%E5%8A%A1%E5%99%A8
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1ODJGMVx1NTZGRCBWMkNST1NTLkNPTSIsDQogICJhZGQiOiAiMjEzLjM1LjExMy4xNDEiLA0KICAicG9ydCI6ICI4MDgwIiwNCiAgImlkIjogImY5ODA4NDEzLThiMTItNDJlYS04NmZmLWEwYWY2NzI3YTBlOCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAib2NpLXNnLjk2ODk2OC54eXoiLA0KICAicGF0aCI6ICIvaW5kZXg/ZWQ9MjU2MCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+trojan://NISHIKUITAN222@8.219.0.48:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#%E4%B8%AD%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://NISHIKUITAN222@8.219.122.55:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#%E4%B8%AD%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://NISHIKUITAN222@8.219.49.65:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#%E4%B8%AD%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://NISHIKUITAN222@47.236.202.91:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#%E7%BE%8E%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://NISHIKUITAN222@8.219.144.168:443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=%2F#%E4%B8%AD%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://NISHIKUITAN222@8.219.4.122:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#%E4%B8%AD%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://NISHIKUITAN222@8.219.104.37:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#%E4%B8%AD%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://NISHIKUITAN222@8.219.142.191:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#%E4%B8%AD%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://NISHIKUITAN222@8.219.161.129:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#%E4%B8%AD%E5%9B%BD%2B%E9%98%BF%E9%87%8C%E4%BA%91
