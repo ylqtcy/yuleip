@@ -99,13 +99,7 @@
         "2083",
         "2087",
         "2096",
-        "8443",
-        "80",
-        "2052",
-        "8080",
-        "2082",
-        "2086",
-        "2095"
+        "8443"
       ]
     },
     {
@@ -117,13 +111,7 @@
         "2083",
         "2087",
         "2096",
-        "8443",
-        "80",
-        "2052",
-        "8080",
-        "2082",
-        "2086",
-        "2095"
+        "8443"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "1m",
@@ -139,13 +127,7 @@
         "2083",
         "2087",
         "2096",
-        "8443",
-        "80",
-        "2052",
-        "8080",
-        "2082",
-        "2086",
-        "2095"
+        "8443"
       ]
     },
     {
@@ -157,13 +139,7 @@
         "2083",
         "2087",
         "2096",
-        "8443",
-        "80",
-        "2052",
-        "8080",
-        "2082",
-        "2086",
-        "2095"
+        "8443"
       ]
     },
     {
@@ -175,13 +151,7 @@
         "2083",
         "2087",
         "2096",
-        "8443",
-        "80",
-        "2052",
-        "8080",
-        "2082",
-        "2086",
-        "2095"
+        "8443"
       ]
     },
     {
@@ -193,13 +163,7 @@
         "2083",
         "2087",
         "2096",
-        "8443",
-        "80",
-        "2052",
-        "8080",
-        "2082",
-        "2086",
-        "2095"
+        "8443"
       ]
     },
     {
@@ -211,13 +175,7 @@
         "2083",
         "2087",
         "2096",
-        "8443",
-        "80",
-        "2052",
-        "8080",
-        "2082",
-        "2086",
-        "2095"
+        "8443"
       ]
     },
     {
@@ -230,13 +188,7 @@
         "2083",
         "2087",
         "2096",
-        "8443",
-        "80",
-        "2052",
-        "8080",
-        "2082",
-        "2086",
-        "2095"
+        "8443"
       ]
     },
     {
@@ -249,13 +201,7 @@
         "2083",
         "2087",
         "2096",
-        "8443",
-        "80",
-        "2052",
-        "8080",
-        "2082",
-        "2086",
-        "2095"
+        "8443"
       ]
     },
     {
@@ -268,13 +214,7 @@
         "2083",
         "2087",
         "2096",
-        "8443",
-        "80",
-        "2052",
-        "8080",
-        "2082",
-        "2086",
-        "2095"
+        "8443"
       ]
     },
     {
@@ -287,13 +227,7 @@
         "2083",
         "2087",
         "2096",
-        "8443",
-        "80",
-        "2052",
-        "8080",
-        "2082",
-        "2086",
-        "2095"
+        "8443"
       ]
     },
     {
@@ -313,13 +247,7 @@
         "2083",
         "2087",
         "2096",
-        "8443",
-        "80",
-        "2052",
-        "8080",
-        "2082",
-        "2086",
-        "2095"
+        "8443"
       ]
     },
     {
@@ -332,13 +260,7 @@
         "2083",
         "2087",
         "2096",
-        "8443",
-        "80",
-        "2052",
-        "8080",
-        "2082",
-        "2086",
-        "2095"
+        "8443"
       ]
     },
     {
@@ -374,246 +296,108 @@
       "server_port": 443,
       "tls": {
         "enabled": true,
-        "server_name": "yule.wenjianken.link",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        },
-        "alpn": [
-          "http/1.1"
-        ]
+        "server_name": "1688.wenjianken.link",
+        "insecure": true
       },
       "transport": {
-        "path": "/?ed=2048",
+        "path": "/",
         "type": "ws",
         "max_early_data": 4096,
         "early_data_header_name": "Sec-WebSocket-Protocol"
       },
-      "uuid": "22bc2f49-8a69-4cbc-b6cc-e560a8baeed2",
+      "password": "wenken",
       "tag": "443",
-      "type": "vless"
+      "type": "trojan"
     },
     {
       "server": "2053.wenjianken.link",
       "server_port": 2053,
       "tls": {
         "enabled": true,
-        "server_name": "yule.wenjianken.link",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        },
-        "alpn": [
-          "http/1.1"
-        ]
+        "server_name": "1688.wenjianken.link",
+        "insecure": true
       },
       "transport": {
-        "path": "/?ed=2048",
+        "path": "/",
         "type": "ws",
         "max_early_data": 4096,
         "early_data_header_name": "Sec-WebSocket-Protocol"
       },
-      "uuid": "22bc2f49-8a69-4cbc-b6cc-e560a8baeed2",
+      "password": "wenken",
       "tag": "2053",
-      "type": "vless"
+      "type": "trojan"
     },
     {
       "server": "2083.wenjianken.link",
       "server_port": 2083,
       "tls": {
         "enabled": true,
-        "server_name": "yule.wenjianken.link",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        },
-        "alpn": [
-          "http/1.1"
-        ]
+        "server_name": "1688.wenjianken.link",
+        "insecure": true
       },
       "transport": {
-        "path": "/?ed=2048",
+        "path": "/",
         "type": "ws",
         "max_early_data": 4096,
         "early_data_header_name": "Sec-WebSocket-Protocol"
       },
-      "uuid": "22bc2f49-8a69-4cbc-b6cc-e560a8baeed2",
+      "password": "wenken",
       "tag": "2083",
-      "type": "vless"
+      "type": "trojan"
     },
     {
       "server": "2087.wenjianken.link",
       "server_port": 2087,
       "tls": {
         "enabled": true,
-        "server_name": "yule.wenjianken.link",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        },
-        "alpn": [
-          "http/1.1"
-        ]
+        "server_name": "1688.wenjianken.link",
+        "insecure": true
       },
       "transport": {
-        "path": "/?ed=2048",
+        "path": "/",
         "type": "ws",
         "max_early_data": 4096,
         "early_data_header_name": "Sec-WebSocket-Protocol"
       },
-      "uuid": "22bc2f49-8a69-4cbc-b6cc-e560a8baeed2",
+      "password": "wenken",
       "tag": "2087",
-      "type": "vless"
+      "type": "trojan"
     },
     {
       "server": "2096.wenjianken.link",
       "server_port": 2096,
       "tls": {
         "enabled": true,
-        "server_name": "yule.wenjianken.link",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        },
-        "alpn": [
-          "http/1.1"
-        ]
+        "server_name": "1688.wenjianken.link",
+        "insecure": true
       },
       "transport": {
-        "path": "/?ed=2048",
+        "path": "/",
         "type": "ws",
         "max_early_data": 4096,
         "early_data_header_name": "Sec-WebSocket-Protocol"
       },
-      "uuid": "22bc2f49-8a69-4cbc-b6cc-e560a8baeed2",
+      "password": "wenken",
       "tag": "2096",
-      "type": "vless"
+      "type": "trojan"
     },
     {
       "server": "8443.wenjianken.link",
       "server_port": 8443,
       "tls": {
         "enabled": true,
-        "server_name": "yule.wenjianken.link",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        },
-        "alpn": [
-          "http/1.1"
-        ]
+        "server_name": "1688.wenjianken.link",
+        "insecure": true
       },
       "transport": {
-        "path": "/?ed=2048",
+        "path": "/",
         "type": "ws",
         "max_early_data": 4096,
         "early_data_header_name": "Sec-WebSocket-Protocol"
       },
-      "uuid": "22bc2f49-8a69-4cbc-b6cc-e560a8baeed2",
+      "password": "wenken",
       "tag": "8443",
-      "type": "vless"
-    },
-    {
-      "server": "80.wenjianken.link",
-      "server_port": 80,
-      "tls": {
-        "enabled": true,
-        "server_name": "yule.wenjianken.link"
-      },
-      "transport": {
-        "path": "/?ed=2048",
-        "type": "ws",
-        "max_early_data": 4096,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "uuid": "22bc2f49-8a69-4cbc-b6cc-e560a8baeed2",
-      "tag": "80",
-      "type": "vless"
-    },
-    {
-      "server": "2052.wenjianken.link",
-      "server_port": 2052,
-      "tls": {
-        "enabled": true,
-        "server_name": "yule.wenjianken.link"
-      },
-      "transport": {
-        "path": "/?ed=2048",
-        "type": "ws",
-        "max_early_data": 4096,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "uuid": "22bc2f49-8a69-4cbc-b6cc-e560a8baeed2",
-      "tag": "2052",
-      "type": "vless"
-    },
-    {
-      "server": "8080.wenjianken.link",
-      "server_port": 8080,
-      "tls": {
-        "enabled": true,
-        "server_name": "yule.wenjianken.link"
-      },
-      "transport": {
-        "path": "/?ed=2048",
-        "type": "ws",
-        "max_early_data": 4096,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "uuid": "22bc2f49-8a69-4cbc-b6cc-e560a8baeed2",
-      "tag": "8080",
-      "type": "vless"
-    },
-    {
-      "server": "2082.wenjianken.link",
-      "server_port": 2082,
-      "tls": {
-        "enabled": true,
-        "server_name": "yule.wenjianken.link"
-      },
-      "transport": {
-        "path": "/?ed=2048",
-        "type": "ws",
-        "max_early_data": 4096,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "uuid": "22bc2f49-8a69-4cbc-b6cc-e560a8baeed2",
-      "tag": "2082",
-      "type": "vless"
-    },
-    {
-      "server": "2086.wenjianken.link",
-      "server_port": 2086,
-      "tls": {
-        "enabled": true,
-        "server_name": "yule.wenjianken.link"
-      },
-      "transport": {
-        "path": "/?ed=2048",
-        "type": "ws",
-        "max_early_data": 4096,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "uuid": "22bc2f49-8a69-4cbc-b6cc-e560a8baeed2",
-      "tag": "2086",
-      "type": "vless"
-    },
-    {
-      "server": "2095.wenjianken.link",
-      "server_port": 2095,
-      "tls": {
-        "enabled": true,
-        "server_name": "yule.wenjianken.link"
-      },
-      "transport": {
-        "path": "/?ed=2048",
-        "type": "ws",
-        "max_early_data": 4096,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "uuid": "22bc2f49-8a69-4cbc-b6cc-e560a8baeed2",
-      "tag": "2095",
-      "type": "vless"
+      "type": "trojan"
     }
   ],
   "route": {
