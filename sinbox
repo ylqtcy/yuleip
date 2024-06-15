@@ -149,7 +149,7 @@
             "reserved": "2eQl",
             "tag": "\ud83d\udfe2\u2705"
         }
-  {
+        {
             "type": "wireguard",
             "server": "2606:4700:d0::bf6f:884:a2fe",
             "server_port": 3176,
