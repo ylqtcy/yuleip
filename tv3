@@ -131,8 +131,8 @@
     },
     {
       "type": "wireguard",
-      "server": "engage.cloudflareclient.com",
-      "server_port": 2408,
+      "server": "939.wenjianken.link",
+      "server_port": 939,
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:8a31:1589:e2ef:b3d6:b6d0/128"
