@@ -137,8 +137,8 @@
         },
         {
             "type": "wireguard",
-            "server": "2606:4700:d0::bf6f:884:a2fe",
-            "server_port": 3476,
+            "server": "939.wenjianken.link",
+            "server_port": 939,
             "local_address": [
                 "172.16.0.2\/32",
                 "2606:4700:110:891b:995f:a5be:ab9b:5a9d\/128"
