@@ -1,48 +1,215 @@
-trojan://gkviEOYc@183.232.139.22:4027?security=tls&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_20240616_1
-trojan://CZrPzc6GyC7f@43.202.63.178:12862?security=tls&sni=appsvs.shop&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_20240616_2
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#%F0%9F%87%AB%F0%9F%87%B7_20240616_3
-trojan://telegram-id-privatevpns@18.169.67.192:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7_20240616_4
-trojan://telegram-id-privatevpns@35.181.226.30:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7_20240616_5
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFOFx1RDgzQ1x1RERGM18yMDI0MDYxNl82IiwNCiAgImFkZCI6ICJtLmNubWppbi5uZXQiLA0KICAicG9ydCI6ICIxNjYzMiIsDQogICJpZCI6ICIyYjhjZmI3Yi1kM2U3LTQ1MjUtODQxOC1lMTNhOWI4ZmQ3M2IiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImRjZWYyNzgyMzM0MzRhMTVjMzU4N2VmOTk4ZGQxMTlkLm1vYmdzbGIudGJjYWNoZS5jb20iLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-trojan://e8105dfd24414268b6c7652c63731097@104.16.192.155:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#%F0%9F%87%BA%F0%9F%87%B8_20240616_7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.215:8080#%F0%9F%87%B3%F0%9F%87%B1_20240616_8
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOF8yMDI0MDYxNl85IiwNCiAgImFkZCI6ICI2NC4xNzYuMTczLjIzNCIsDQogICJwb3J0IjogIjMzODkiLA0KICAiaWQiOiAiOWMwNTBhODYtZDYxMi00OGYxLWVjMzItZTU3M2RmMDhhMWI3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-trojan://telegram-id-privatevpns@54.228.183.82:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%AA_20240616_10
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8080#%F0%9F%87%AB%F0%9F%87%B7_20240616_11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcFVSdVRVZi1sRmdnNXFXZzhldUZB@77.83.246.55:1080#%F0%9F%87%B7%F0%9F%87%BA_20240616_12
-trojan://gkviEOYc@223.113.54.160:23223?security=tls&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_20240616_13
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5001#%F0%9F%87%AB%F0%9F%87%B7_20240616_14
-trojan://dIg6FSEgVDbz@3.96.201.83:12880?security=tls&sni=appsvs.shop&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6_20240616_15
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOF8yMDI0MDYxNl8xNiIsDQogICJhZGQiOiAiMTA0LjI2LjEzLjE4NiIsDQogICJwb3J0IjogIjIwODYiLA0KICAiaWQiOiAiNjczMmY0YWYtNDMwMS00NzE1LWEyZTMtYjc2YjM0NGRiMjViIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkZTYubm1zbGEubmV0IiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOF8yMDI0MDYxNl8xNyIsDQogICJhZGQiOiAiMTcyLjY0Ljk3LjIzNSIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAiZWY4Yzk1NGUtMDE0Zi00YjM2LTgyNzMtOWI1MDg2YWZhYjM0IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkdWFsLW5vdGhpbmctcHJlcC1leGl0LnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgInBhdGgiOiAiZWY4Yzk1NGUtMDE0Zi00YjM2LTgyNzMtOWI1MDg2YWZhYjM0LXZtIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOF8yMDI0MDYxNl8xOCIsDQogICJhZGQiOiAiMTA0LjE5LjIxLjI0IiwNCiAgInBvcnQiOiAiODg4MCIsDQogICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImZ1bmstZW5nbGFuZC1pbmRpcmVjdC1nb3NwZWwudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAicGF0aCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzktdm0iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-trojan://baa7fdc5-a9cb-435a-982b-ccd82cb1f8c0@104.16.60.10:443?security=tls&sni=ybv27nj.diamondgalery.ir&type=ws&host=ybv27nj.diamondgalery.ir&path=%2FU13Hsk6pJ3kV6p1uO5Avv#%F0%9F%87%BA%F0%9F%87%B8_20240616_19
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3306#%F0%9F%87%B5%F0%9F%87%B1_20240616_20
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOF8yMDI0MDYxNl8yMSIsDQogICJhZGQiOiAiY2ZjZG4yLnNhbmZlbmNkbjkuY29tIiwNCiAgInBvcnQiOiAiMjA1MiIsDQogICJpZCI6ICJlNjJkOWQ3My05YTBlLTRkN2EtOGViYS04YTk2NjZjOWJjYmUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImpwYWZ6eWhmc2czLnlvZm5oa2ZjLnh5eiIsDQogICJwYXRoIjogIi92aWRlby91NGVDWlR4VyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@51.77.53.200:7001#%F0%9F%87%B5%F0%9F%87%B1_20240616_22
-trojan://telegram-id-directvpn@3.98.9.224:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6_20240616_23
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOF8yMDI0MDYxNl8yNCIsDQogICJhZGQiOiAiMTcyLjY3LjE4NS42NCIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAiYjU1MWFhMjItMjJhZi0xMWVlLWI4ZDgtZjIzYzkzMmViNjhkIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJvaWljdHcueXlkc2lpLmNvbSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOF8yMDI0MDYxNl8yNSIsDQogICJhZGQiOiAiMTA0LjE2LjY3LjM4IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiMmE4YTEwZmItOWNhMy0zNjdlLWEyMzQtY2YwOWY4NDFiZTRmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ1czNlLW1tbm5mcjlkb3AwLnYyZnJlZXZwbi5jb20iLA0KICAicGF0aCI6ICIvdjExOC1mY2N4bXhtMzUiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%F0%9F%87%AC%F0%9F%87%A7_20240616_26
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9101#%F0%9F%87%B5%F0%9F%87%B1_20240616_27
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOF8yMDI0MDYxNl8yOCIsDQogICJhZGQiOiAiMTA0LjE5LjQyLjQ5IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiYzA0NTNhMTYtNjdlOS00ZWFiLWJkYzktYjk2MjRhZDZiZDI5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJqcC54bGI4LmV1Lm9yZyIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#%F0%9F%87%B5%F0%9F%87%B1_20240616_29
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.207:8009#%F0%9F%87%BA%F0%9F%87%B8_20240616_30
-trojan://TeleGram-VPNCTVIP@164.38.155.61:443?security=tls&sni=trojan-ws.vpnctvip.dns-dynamic.NeT&type=ws&host=trojan-ws.vpnctvip.dns-dynamic.NeT&path=%2F#%F0%9F%87%AC%F0%9F%87%A7_20240616_31
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5601#%F0%9F%87%AB%F0%9F%87%B7_20240616_32
-trojan://HfTfIAzBtNo3@13.40.148.237:12881?security=tls&sni=appsvs.shop&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7_20240616_33
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.89:6379#%F0%9F%87%BA%F0%9F%87%B8_20240616_34
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.26:5001#%F0%9F%87%BA%F0%9F%87%B8_20240616_35
-trojan://telegram-id-privatevpns@34.255.77.238:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%AA_20240616_36
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOF8yMDI0MDYxNl8zNyIsDQogICJhZGQiOiAiMTA0LjIxLjguMTU3IiwNCiAgInBvcnQiOiAiMjA4MiIsDQogICJpZCI6ICIxMTJhYzM2Zi0zZjUzLTRlMjYtODM3MS1kMjVjMDI4ZTFiOWEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInMxYy52Mi52MDAxc3NzLnh5eiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2376#%F0%9F%87%AB%F0%9F%87%B7_20240616_38
-trojan://sb585zSvP8lH@3.124.12.14:12887?security=tls&sni=appsvs.shop&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA_20240616_39
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@beedoost.org:8080#%F0%9F%87%BA%F0%9F%87%B8_20240616_40
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#%F0%9F%87%B5%F0%9F%87%B1_20240616_41
-trojan://telegram-id-directvpn@44.241.4.177:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_20240616_42
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOF8yMDI0MDYxNl80MyIsDQogICJhZGQiOiAiMTcyLjY3LjE2OS45MSIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAiYjU1MWFhMjItMjJhZi0xMWVlLWI4ZDgtZjIzYzkzMmViNjhkIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJvaWljdHcueXlkc2lpLmNvbSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5001#%F0%9F%87%B5%F0%9F%87%B1_20240616_44
-trojan://bTOqmRcL4E19@18.185.148.24:12892?security=tls&sni=appsvs.shop&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA_20240616_45
-trojan://NISHIKUITAN222@104.21.42.35:443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=%2F#%F0%9F%87%BA%F0%9F%87%B8_20240616_46
-trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.24.196.20:443?security=tls&sni=hdfy4c6.freelines.net&type=ws&host=hdfy4c6.freelines.nethttp%2F1.1&path=%2FQ177OZ8bzrxRWBtLTlTL#%F0%9F%87%BA%F0%9F%87%B8_20240616_47
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2376#%F0%9F%87%B5%F0%9F%87%B1_20240616_48
+{
+  "log": {
+    "disabled": false,
+    "level": "fatal",
+    "timestamp": true
+  },
+  "experimental": {
+    "clash_api": {
+      "external_controller": "0.0.0.0:9090",
+      "external_ui": "yacd",
+      "external_ui_download_url": "https://github.com/MetaCubeX/Yacd-meta/archive/gh-pages.zip",
+      "external_ui_download_detour": "direct",
+      "secret": "",
+      "default_mode": "rule"
+    }
+  },
+  "dns": {
+    "servers": [
+      {
+        "address": "tcp://185.228.168.9",
+        "address_resolver": "dns-direct",
+        "strategy": "ipv4_only",
+        "tag": "dns-remote"
+      },
+      {
+        "address": "tcp://185.228.168.9",
+        "address_resolver": "dns-local",
+        "detour": "direct",
+        "strategy": "ipv4_only",
+        "tag": "dns-direct"
+      },
+      {
+        "address": "local",
+        "detour": "direct",
+        "tag": "dns-local"
+      },
+      {
+        "address": "rcode://success",
+        "tag": "dns-block"
+      }
+    ],
+    "rules": [
+      {
+        "domain_suffix": [
+          ".ir"
+        ],
+        "server": "dns-direct"
+      },
+      {
+        "outbound": "direct",
+        "server": "dns-direct",
+        "rewrite_ttl": 20
+      },
+      {
+        "outbound": "any",
+        "server": "dns-direct",
+        "rewrite_ttl": 20
+      }
+    ],
+    "reverse_mapping": true,
+    "strategy": "ipv4_only",
+    "independent_cache": true
+  },
+  "inbounds": [
+    {
+      "listen": "0.0.0.0",
+      "listen_port": 6450,
+      "override_address": "8.8.8.8",
+      "override_port": 53,
+      "tag": "dns-in",
+      "type": "direct"
+    },
+    {
+      "type": "tun",
+      "tag": "tun-in",
+      "domain_strategy": "",
+      "interface_name": "tun0",
+      "inet4_address": "172.19.0.1/30",
+      "mtu": 9000,
+      "auto_route": true,
+      "strict_route": true,
+      "stack": "system",
+      "endpoint_independent_nat": true,
+      "sniff": true,
+      "sniff_override_destination": false
+    },
+    {
+      "domain_strategy": "",
+      "listen": "0.0.0.0",
+      "listen_port": 2080,
+      "sniff": true,
+      "sniff_override_destination": false,
+      "tag": "mixed-in",
+      "type": "mixed"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "type": "selector",
+      "outbounds": [
+        "URL-TEST",
+        "🟢✅"
+      ]
+    },
+    {
+      "tag": "URL-TEST",
+      "type": "urltest",
+      "outbounds": [
+        "🟢✅"
+      ],
+      "url": "https://www.gstatic.com/generate_204",
+      "interval": "3m",
+      "tolerance": 50
+    },
+    {
+      "tag": "direct",
+      "type": "direct"
+    },
+    {
+      "tag": "bypass",
+      "type": "direct"
+    },
+    {
+      "tag": "block",
+      "type": "block"
+    },
+    {
+      "tag": "dns-out",
+      "type": "dns"
+    },
+    {
+      "type": "wireguard",
+      "server": "engage.cloudflareclient.com",
+      "server_port": 2408,
+      "local_address": [
+        "172.16.0.2/32",
+        "2606:4700:110:8a31:1589:e2ef:b3d6:b6d0/128"
+      ],
+      "private_key": "OKlULVhXZFzFLX0ZlVx4P2P/eIlNPaRxhMZA/2XLVlo=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "mtu": 1280,
+      "reserved": "NN4D",
+      "tag": "🟢✅"
+    }
+  ],
+  "route": {
+    "auto_detect_interface": true,
+    "override_android_vpn": true,
+    "final": "proxy",
+    "geoip": {
+      "download_url": "https://github.com/MiSaturo/sing-box-geoip-ir/releases/latest/download/geoip.db",
+      "download_detour": "direct"
+    },
+    "geosite": {
+      "download_url": "https://github.com/MasterKia/iran-hosted-domains/releases/latest/download/iran-geosite.db",
+      "download_detour": "direct"
+    },
+    "rules": [
+      {
+        "outbound": "dns-out",
+        "port": [
+          53
+        ]
+      },
+      {
+        "inbound": [
+          "dns-in"
+        ],
+        "outbound": "dns-out"
+      },
+      {
+        "domain_suffix": [
+          "ir"
+        ],
+        "outbound": "bypass"
+      },
+      {
+        "geoip": [
+          "ir"
+        ],
+        "outbound": "bypass"
+      },
+      {
+        "geosite": [
+          "ir"
+        ],
+        "outbound": "direct"
+      },
+      {
+        "geosite": [
+          "other"
+        ],
+        "outbound": "direct"
+      },
+      {
+        "geosite": [
+          "ads"
+        ],
+        "outbound": "block"
+      },
+      {
+        "ip_cidr": [
+          "224.0.0.0/3",
+          "ff00::/8"
+        ],
+        "outbound": "block",
+        "source_ip_cidr": [
+          "224.0.0.0/3",
+          "ff00::/8"
+        ]
+      }
+    ]
+  }
+}
