@@ -219,12 +219,6 @@
         ]
     }
 }
-#profile-title: base64:VFZDIHwg8J+fouKchQ==
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-#support-url: https://t.me/v2raycollector
-#profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
-
 {
     "log": {
         "disabled": false,
@@ -358,8 +352,8 @@
         },
         {
             "type": "wireguard",
-            "server": "2606:4700:d0::bf6f:884:a2fe",
-            "server_port": 3476,
+            "server": "2606:4700:d0::bf6f:884:a1fe",
+            "server_port": 3176,
             "local_address": [
                 "172.16.0.2\/32",
                 "2606:4700:110:891b:995f:a5be:ab9b:5a9d\/128"
