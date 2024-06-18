@@ -49,3 +49,4 @@ trojan://ypDt8RkT7J@151.115.83.239:43118?security=tls&sni=egajz.phooeyunfold.com
 trojan://moist@146.56.44.226:55555?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs&path=%2F#%E5%8F%B0%E5%B7%9E
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Ny9iYjl4M1RKUTRZNVNSQS9BbDNPZHd4SWs0dWYzSmc4Tjl3RFFnK1V0bz0=@109.104.152.186:11223#%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90
 vless://130a1c25-e0f0-4a43-9e2c-6d4ce6290681@gbr01.abvpn.ru:443?encryption=none&security=tls&sni=gbr01.abvpn.ru&type=ws&path=%2Fwebsocket#%E4%B8%89%E4%BA%9A
+sn://wg?eNpFz0tuglAUgOGrphO3YoLnnAsXOImTNiI-iBgLEUdFLlQTjcZHEGdsxbnTJl1Sd6GzLuD_kr8phLiTAsWmDcAamItVarKZo2JdWJIdV8FXS4hftMlAZYBBXUnt_wYR2JEZsXYUsnJT4hwsmzOZW10k5xEM3k-bZZqE2WF6vCXjY9wZHmjibTXNszyq_MBNFp9lOBtEvcdqt5h-dDz0rv3Ac3W1GZP_YubR-ebD6BLvLVxTGRbf1b5Xizch5Lb8a7wuhmH8U9dPpW05uQ
