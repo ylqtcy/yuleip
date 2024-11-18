@@ -1,0 +1,9 @@
+{
+      "key": "王",
+      "name": "王",
+      "type": 1,
+      "api": "https://d.kstore.dev/download/9280/wex.json",
+      "searchable": 0,
+      "quickSearch": 0,    
+      "filterable": 0
+    }
