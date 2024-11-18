@@ -1,3 +1,6 @@
 { 
-  "urls": "http://tv.999888987.xyz"
+    "urls": [
+        { "url": "http://tv.999888987.xyz", "name": "饭太硬" },
+        { "url": "https://d.kstore.dev/download/9280/wex.json", "name": "饭太硬（备用）" }
+    ]
 }
